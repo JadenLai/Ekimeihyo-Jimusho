@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Ekimeihyo Jimusho 駅名標事務所
+Welcome to Ekimeihyo Jimusho.
+This page is only an website without images due to the limits of GitHub.
+If you want to see some interesting running in board or route map, please click here to access our [Facebook page](https://www.facebook.com/%E9%A7%85%E5%90%8D%E6%A8%99%E4%BA%8B%E5%8B%99%E6%89%80-Ekimeihyo-Jimusho-105217765072679)
+Our team are full with passion on making these stuffs
+If you want to join us, please Direct message us in Facebook Messenger!
 
-You can use the [editor on GitHub](https://github.com/JadenLai/ekimeihyo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JadenLai/ekimeihyo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_EJ駅事所2021_
